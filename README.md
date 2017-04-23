@@ -1,2 +1,2 @@
 # hello-world
-GitHub java hello world project
+GitHub: hello world java project
